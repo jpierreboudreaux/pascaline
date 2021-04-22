@@ -1,5 +1,5 @@
-# pascaline
-Simulacrum of a Pascaline Calculator
+# Pascaline
+This is a simulacrum of a Pascaline Calculator.
 I was interested in the functionality of mechanical computers/ calculators and
 came across the "Pascaline", an arithmetic machine invented by Blaise Pascal in
 the 17th century. This project is meant to be an accompaniment to a real-life
